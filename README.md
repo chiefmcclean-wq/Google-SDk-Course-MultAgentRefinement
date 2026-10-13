@@ -1,4 +1,3 @@
-# Google-SDk-Course-MultAgentRefinement
 # 🤖 Research & Refinement Bot
 
 A multi-agent AI pipeline built with **Google Agent Development Kit (ADK)** that answers user questions through a four-stage process: greet → search → critique → refine.  Every input is screened by a **Google Model Armor** guardrail before any agent processes it.
